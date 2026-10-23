@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 📬 Connect with me:
+- **Email:** [mustafa.abueisha.dev@gmail.com](mailto:mustafa.abueisha.dev@gmail.com)
+- **LinkedIn:** [www.linkedin.com](https://www.linkedin.com/in/mustafaabueisha)
+
+
 <!--
 **mustafa-abu-eisha/mustafa-abu-eisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
